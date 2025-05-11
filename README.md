@@ -69,4 +69,3 @@ Meskipun Random Forest mencatatkan accuracy dan precision yang lebih tinggi, nil
 
 Fitur yang paling berpengaruh menurut analisis koefisien adalah MonthlyCharges, Tenure, dan Contract, yang menunjukkan bahwa pelanggan dengan biaya tinggi, durasi langganan singkat, dan kontrak jangka pendek lebih berisiko churn.
 
-## Rekomendasi 
